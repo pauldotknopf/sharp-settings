@@ -1,0 +1,11 @@
+<Project>
+    <Import Project="version.props" />
+    <PropertyGroup>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <Authors>pauldotknopf</Authors>
+        <PackageDescription>A simple solution to persisting settings.</PackageDescription>
+        <Summary>A simple solution to persisting settings.</Summary>
+        <RepositoryUrl>https://github.com/pauldotknopf/sharp-settings-store</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/pauldotknopf/sharp-settings-store</PackageProjectUrl>
+    </PropertyGroup>
+</Project>
